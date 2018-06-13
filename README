@@ -1,3 +1,6 @@
+CHECK WIKI PAGE TO SEE HOW TO INSTALL
+--------------------------------------
+
 Legal Notice
 ============
 ALL USAGE OF HSL IS SUBJECT TO LICENCE. PLEASE REFER TO THE FILE 'LICENCE'
@@ -38,3 +41,5 @@ Run ldconfig.
 Option 2: [To run with precompiled Ipopt]
 Copy lib/libcoinhsl.so into your Ipopt directory and
 ensure it is in your LD_LIBRARY_PATH.
+
+
